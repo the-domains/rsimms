@@ -1,0 +1,14 @@
+layout_spectrum: 0.5768974833190441
+typography_spectrum: 0.3737973088864237
+color:
+  brandStrength: 0.6745578064583242
+  lightness: 0.15438261721283197
+  saturation: 0.5338245995808393
+  rhythmicContrast: 0.6994507201015949
+  brandColors:
+    - '#FCFFF5'
+    - '#D1DBBD'
+    - '#91AA9D'
+    - '#3E606F'
+    - '#193441'
+name: Rsimms
